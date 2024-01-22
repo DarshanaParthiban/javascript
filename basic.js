@@ -1,4 +1,4 @@
-console.log("you")
+/*console.log("you")
 //variables
 a='a'
 console.log("General declaration of variable",a);
@@ -12,7 +12,6 @@ const d=2000;
 console.log("This variable belongs to const type value is",d)
 //d=200;
 //console.log("This variable belongs to const type value is",d)
-
 
 //Assignament operator
 var a=10
@@ -47,4 +46,20 @@ console.log("Arithmetic operator Increment output",aA++)
  console.log(0&&(100||20))
  console.log(0&&100||20)
 
+ //Relational operator -> <,>,<=,>=,
+ ar=10
+ br=20
+ console.log("Relational operator > is:",ar>br)
+ console.log("Relational operator >= is:",ar>=br)
+ console.log("Relational operator < is:",ar<br)
+ console.log("Relational operator <= is:",ar<=br)
+ console.log("Relational operator === is:",ar===br)
+ console.log("Relational operator !== is:",ar!==br)
  
+
+
+
+
+    
+
+
