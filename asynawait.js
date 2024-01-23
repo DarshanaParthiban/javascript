@@ -14,7 +14,7 @@ asAw();*/
 //next example
 async function commentcode(){
   return new Promise(
-    
+
     function (commentvalue){
         setTimeout(function(){
             commentvalue("this is my first comment icon")
